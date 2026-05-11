@@ -1,0 +1,13 @@
+langchain>=0.3
+langgraph>=0.2
+langchain-groq
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+plotly
+pandas
+requests
+python-dotenv
+streamlit
+langchain-text-splitters
